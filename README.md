@@ -4,7 +4,7 @@
 
 I am a Full-Stack Web Developer with a passion for solving problems with clean and reusable code. I love working with all things Javascript, especially React and Node. I recently participated and completely Hacktober and will continue to contribute to open-source. 
 
-Skills: Skills: HTML | CSS | Javascript | React | Redux | Node | Angular | typescript | jest | Cypress | SQLite |  RESTful API's |  Github | Git | Python |
+Skills: Skills: HTML | CSS | Javascript | React | Redux | Node | Angular | typescript | jest | Cypress | SQLite |  RESTful API's |  Github | Git | Python | UI/UX | Express
 
 - 🔭 I’m currently working on  https://github.com/Lambda-School-Labs/village-book-builders-fe-a | https://github.com/Lambda-School-Labs/village-book-builders-be-a 
 - 🌱 I’m currently learning I am always looking to grow and learn by working with my fellow developers.  
