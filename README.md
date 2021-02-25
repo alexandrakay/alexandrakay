@@ -6,7 +6,6 @@ I am a Full-Stack Web Developer with a passion for solving problems with clean a
 
 Skills: Skills: HTML | CSS | Javascript | React | Redux | Node | Angular | typescript | jest | Cypress | SQLite |  RESTful API's |  Github | Git | Python | UI/UX | Express | SASS | Next | Gatsby | AWS
 
-- 🔭 I’m currently working on  https://github.com/Lambda-School-Labs/village-book-builders-fe-a | https://github.com/Lambda-School-Labs/village-book-builders-be-a 
 - 🌱 I’m currently learning I am always looking to grow and learn by working with my fellow developers.  
 - 💬 Ask me about anything and everything.  
 - 📫 How to reach me: alexandrakay616@gmail.com 
