@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Alex. 
-#### Full-Stack Web Developer || Design || Certified Scrum Master
+#### Full-Stack Web Developer || Design || Certified ScrumMaster
 ![Full-Stack Web Developer || Design || Certified Scrum Master](https://github.com/alexandrakay)
 
-I am a Full-Stack Web Developer with a passion for solving problems with clean and reusable code. I love working with all things Javascript, especially React and Node. I recently participated and completely Hacktober and will continue to contribute to open-source. 
+I am a full-stack web developer with a passion for solving problems with clean and reusable code. I love working with all things Javascript, especially React and Node. I recently participated and completely Hacktober and will continue to contribute to open-source. 
 
 Skills: Skills: HTML | CSS | Javascript | React | Redux | Node | Angular | typescript | jest | Cypress | SQLite |  RESTful API's |  Github | Git | Python | UI/UX | Express | SASS | Next | Gatsby | AWS
 
