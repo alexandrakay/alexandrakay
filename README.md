@@ -2,7 +2,7 @@
 #### Full-Stack Web Developer || Design || Certified ScrumMaster
 
 
-I am a full-stack web developer with a passion for solving problems with clean and reusable code. I love working with all things Javascript, especially React and Node. I recently participated and completely Hacktober and will continue to contribute to open-source. 
+I am a full-stack web developer with a passion for solving problems with clean and reusable code. I love working with all things Javascript, especially React and Node.
 
 Skills: Skills: HTML | CSS | Javascript | React | Redux | Node | Angular | typescript | jest | Cypress | SQLite |  RESTful API's |  Github | Git | Python | UI/UX | Express | SASS | Next | Gatsby | AWS
 
