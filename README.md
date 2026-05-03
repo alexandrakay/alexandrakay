@@ -17,108 +17,29 @@ Right now, I am focused on shipping real projects, strengthening my CS fundament
 
 ## Technical Skills
 
-### Frontend
+| Frontend | Backend / APIs | Data | Cloud / DevOps |
+| --- | --- | --- | --- |
+| HTML5 | Node.js | SQL | Git |
+| CSS3 | Express | MySQL | GitHub |
+| JavaScript | Python | PostgreSQL | CI/CD pipelines |
+| TypeScript | Java | MongoDB | Docker |
+| React | Ruby on Rails | Relational modeling | AWS |
+| Angular | REST APIs | NoSQL modeling | Azure |
+| Vue | GraphQL | Schema design | Google Cloud Platform |
+| Next.js | Authentication flows | Querying | Deployment workflows |
+| Tailwind CSS | Server-side logic | Data management | Environment configuration |
+| Material UI | API integration |  |  |
+| Bootstrap | Secure coding practices |  |  |
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Angular
-- Vue
-- Next.js
-- Tailwind CSS
-- Material UI
-- Bootstrap
-- Responsive design
-- Component-driven UI
-- UI/UX awareness
-- Accessibility-minded interface structure
-- Performance-conscious frontend development
-
-### Backend and Full Stack
-
-- Node.js
-- Express
-- Python
-- Java
-- Ruby on Rails
-- REST APIs
-- GraphQL
-- Database-backed application patterns
-- Authentication flows
-- Server-side application logic
-- API integration
-- Secure coding practices
-
-### Databases
-
-- SQL
-- MySQL
-- PostgreSQL
-- MongoDB
-- Relational data modeling
-- NoSQL data modeling
-- Querying, schema design, and data management
-
-### DevOps, Cloud, and Infrastructure
-
-- Git
-- GitHub
-- CI/CD pipelines
-- Docker
-- AWS
-- Azure
-- Google Cloud Platform
-- Deployment workflows
-- Environment configuration
-
-### Security
-
-- Authentication and authorization
-- JWT
-- OAuth
-- Secure API design
-- Input validation
-- Protection against common injection risks
-- Basic cybersecurity principles
-
-### Languages and Tools
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-- Java
-- Node.js
-- SQL
-- Git
-- GitHub
-- VS Code
-- npm
-- ESLint
-
-### AI and Product Building
-
-- AI-assisted development
-- AI tool and API integration
-- Prompt iteration and evaluation
-- Practical AI feature planning
-- Study tools and learning workflows
-- Rapid prototyping
-- Turning experiments into usable application features
-- Product-minded technical decision-making
-
-### Collaboration and Engineering Practice
-
-- Agile and Scrum workflows
-- Problem-solving across the stack
-- Debugging and troubleshooting
-- Cross-functional communication
-- Team collaboration
-- Adaptability in fast-changing technical environments
-- Technical writing and project documentation
+| UI / Product | Security | AI | Collaboration |
+| --- | --- | --- | --- |
+| Responsive design | Authentication and authorization | AI-assisted development | Agile and Scrum |
+| Component-driven UI | JWT | AI tool and API integration | Problem-solving |
+| UI/UX awareness | OAuth | Prompt iteration and evaluation | Debugging |
+| Accessibility-minded structure | Secure API design | Practical AI feature planning | Troubleshooting |
+| Performance-conscious development | Input validation | Study tools and learning workflows | Cross-functional communication |
+| Rapid prototyping | Injection risk awareness | Product-minded technical decisions | Team collaboration |
+| Technical writing | Cybersecurity basics | Turning experiments into usable features | Adaptability |
 
 ## Current Focus
 
