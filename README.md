@@ -61,5 +61,5 @@ I care about more than whether something technically works. I care about whether
 ## Connect
 
 - GitHub: [alexandrakay](https://github.com/alexandrakay)
-- LinkedIn: [alexandrakay](https://www.linkedin.com/in/alexandrakay)
+- LinkedIn: [alexandrakay](https://www.linkedin.com/in/alex-andra-kay/)
 - Medium: [@alexandrakay](https://medium.com/@alexandrakay)
